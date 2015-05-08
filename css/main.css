@@ -101,7 +101,8 @@ textarea {
       height: 100%;
     }
     body {
-      background: #F1f1f2;
+   /*   background: #F1f1f2;*/
+       background: url(../img/noisy.png) repeat;
       padding: 0;
       text-align: center;
       font-family: 'Raleway', sans-serif;
@@ -248,10 +249,11 @@ textarea {
       font-size: 40px;
       line-height: 190%;
       text-decoration: none;
+      border: 1px solid black;
     }
 
     .dark {
-        background: rgba(0,0,0,0.4);
+        background: rgba(0,0,0, 0.4);
     }
 
     .tps-section .tps-wrapper h1 a:hover{
