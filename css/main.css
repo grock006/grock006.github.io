@@ -111,8 +111,9 @@ textarea {
       height: 100%;
     }
 
-      a {
+    a {
       text-decoration: none;
+      font-family: 'Raleway', sans-serif;
     }
           
     .main {
@@ -307,31 +308,36 @@ textarea {
     }
 
     .tps-section:nth-child(2n+1) .tps-wrapper {
-      background: url(../img/72Townsend.png) center top;
+      background: url(../img/syrup.png) center top;
       background-size: 1000px;
     }
 
     .tps-section:nth-child(3n+1) .tps-wrapper {
+      background: url(../img/72Townsend.png) center top;
+      background-size: 1000px;
+    }
+
+    .tps-section:nth-child(4n+1) .tps-wrapper {
       background: url(../img/crackerjack.png) center top;
       background-size: 1000px;
     }
     
-    .tps-section:nth-child(4n+1) .tps-wrapper {
+    .tps-section:nth-child(5n+1) .tps-wrapper {
       background:  url(../img/instaview.png) center top;
       background-size: cover;
     }
     
-    .tps-section:nth-child(5n+1) .tps-wrapper {
+    .tps-section:nth-child(6n+1) .tps-wrapper {
       background:  url(../img/venuekick.png) center top;
       background-size: cover;
     }
     
-    .tps-section:nth-child(6n+1) .tps-wrapper {
+    .tps-section:nth-child(7n+1) .tps-wrapper {
       background:  url(../img/manson.png) center top;
       background-size: cover;
     }
 
-    .tps-section:nth-child(7n+1) .tps-wrapper {
+    .tps-section:nth-child(8n+1) .tps-wrapper {
       background:  url(../img/diehardtictactoe.png) center top;
       background-size: cover;
     }
