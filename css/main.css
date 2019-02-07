@@ -153,7 +153,10 @@ textarea {
 
 
 /* TITLES */
-
+    h4 {
+      white-space: nowrap;
+    }
+  
     .main-title {
       margin: auto;
       width: 100%;
@@ -303,51 +306,56 @@ textarea {
 /* WORK IMAGES */
 
     .tps-section:nth-child(1n+1) .tps-wrapper {
-      background: url(../img/opticolor.png) center top;
+      background: url(../img/readingiq1.png) center top;
       background-size: 1000px;
     }
 
     .tps-section:nth-child(2n+1) .tps-wrapper {
-      background: url(../img/tonygarzio.png) center top;
+      background: url(../img/opticolor.png) center top;
       background-size: 1000px;
     }
 
     .tps-section:nth-child(3n+1) .tps-wrapper {
-      background: url(../img/castifi2.png) center top;
+      background: url(../img/tonygarzio.png) center top;
       background-size: 1000px;
     }
 
     .tps-section:nth-child(4n+1) .tps-wrapper {
-      background: url(../img/syrup.png) center top;
+      background: url(../img/castifi2.png) center top;
       background-size: 1000px;
     }
 
     .tps-section:nth-child(5n+1) .tps-wrapper {
-      background: url(../img/72Townsend.png) center top;
+      background: url(../img/syrup.png) center top;
       background-size: 1000px;
     }
 
     .tps-section:nth-child(6n+1) .tps-wrapper {
+      background: url(../img/72Townsend.png) center top;
+      background-size: 1000px;
+    }
+
+    .tps-section:nth-child(7n+1) .tps-wrapper {
       background: url(../img/crackerjack.png) center top;
       background-size: 1000px;
     }
     
-    .tps-section:nth-child(7n+1) .tps-wrapper {
+    .tps-section:nth-child(8n+1) .tps-wrapper {
       background:  url(../img/instaview.png) center top;
       background-size: cover;
     }
     
-    .tps-section:nth-child(8n+1) .tps-wrapper {
+    .tps-section:nth-child(9n+1) .tps-wrapper {
       background:  url(../img/venuekick.png) center top;
       background-size: cover;
     }
     
-    .tps-section:nth-child(9n+1) .tps-wrapper {
+    .tps-section:nth-child(10n+1) .tps-wrapper {
       background:  url(../img/manson.png) center top;
       background-size: cover;
     }
 
-    .tps-section:nth-child(10n+1) .tps-wrapper {
+    .tps-section:nth-child(11n+1) .tps-wrapper {
       background:  url(../img/diehardtictactoe.png) center top;
       background-size: cover;
     }
