@@ -147,7 +147,7 @@ textarea {
     }
 
     .link:hover {
-      color: crimson;
+      color: #ffffff;
      -webkit-animation: moveDown .3s forwards;
     }
 
@@ -290,7 +290,7 @@ textarea {
     }
 
     .tps-section .tps-wrapper small a:hover{
-      color: crimson;
+      color: #b2b3b3;
     }
 
 /* WORK SUB-TITLES DESCRIPTIONS */
